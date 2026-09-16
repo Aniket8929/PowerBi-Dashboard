@@ -9,7 +9,7 @@ The project focuses on transforming raw accident-level data into an easy-to-unde
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="image.png" alt="Indian Road Accident Analysis Dashboard" width="900"/>
+ <img width="887" height="499" alt="image" src="https://github.com/user-attachments/assets/1a3ca399-9897-4e35-9a6c-7147ad7e6c0e" />
 </p>
 
 ---
