@@ -117,6 +117,3 @@ A breakdown of product- and category-level revenue, along with pricing analysis 
 
 ---
 
-## 📬 Contact
-
-For questions or feedback, feel free to reach out at **aniketkumarrai888@gmail.com**
