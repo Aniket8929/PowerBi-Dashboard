@@ -69,16 +69,12 @@ The report is designed for quick, at-a-glance analysis: every visual updates dyn
 ## 📁 Suggested Repository Structure
 
 ```
-credit-card-spending-india/
+Credit Card Spending Dashboard./
 │
-├── data/
-│   └── credit_card_transactions.csv     # Raw/source dataset
+├── credit_card_transactions.csv     # Raw/source dataset
 │
-├── dashboard/
-│   └── Credit_Card_Spending_India.pbix  # Power BI report file
+├── Credit_Card_Spending_India.pbix  # Power BI report file
 │
-├── images/
-│   └── dashboard_preview.png            # Dashboard screenshot
 │
 └── README.md
 ```
