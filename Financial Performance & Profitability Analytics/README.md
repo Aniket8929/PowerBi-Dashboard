@@ -21,7 +21,8 @@ This dashboard consolidates financial and business data into four focused pages,
 
 The landing page of the report, providing simple navigation buttons to move between the **Executive Summary**, **Customer Insights**, and **Product Performance** pages.
 
-![Home Page](screenshots/home.png)
+<img width="642" height="362" alt="image" src="https://github.com/user-attachments/assets/9a04393e-cd71-47ba-8a42-09ff12d44cde" />
+
 
 **Highlights:**
 - Clean branded landing screen
@@ -34,7 +35,7 @@ The landing page of the report, providing simple navigation buttons to move betw
 
 A high-level financial overview designed for leadership, summarizing revenue, profit, margins, and department-wise performance.
 
-![Executive Summary](screenshots/executive-summary.png)
+<img width="638" height="356" alt="image" src="https://github.com/user-attachments/assets/2d2b3fb5-66b0-4a81-9886-8c18ca97870a" />
 
 **Key Metrics (KPI cards):**
 - **Total Revenue:** 125.89M
@@ -55,7 +56,8 @@ A high-level financial overview designed for leadership, summarizing revenue, pr
 
 A closer look at the customer base — who they are, how they're segmented, and where they come from.
 
-![Customer Insights](screenshots/customer-insights.png)
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/fb9bfdff-378c-4839-9425-f4adba8c43d6" />
+
 
 **Key Metrics (KPI cards):**
 - **Total Customers:** 183
@@ -75,7 +77,7 @@ A closer look at the customer base — who they are, how they're segmented, and 
 
 A breakdown of product- and category-level revenue, along with pricing analysis against standard cost.
 
-![Product Performance](screenshots/product-performance.png)
+<img width="636" height="358" alt="image" src="https://github.com/user-attachments/assets/5d6809be-edf9-4923-a608-767349037606" />
 
 **Key Metrics (KPI cards):**
 - **Total Revenue:** 125.89M
